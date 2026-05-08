@@ -1,3 +1,11 @@
+
+at the bottom.
+
+That turns the entire README into a code block instead of rendering the HTML.
+
+Use THIS exact version directly in `README.md` with NO code fences.
+
+:::writing{variant="standard" id="26418"}
 <h1 align="center">National Programme Operations Dashboard</h1>
 
 <p align="center">
@@ -5,159 +13,151 @@ Operational analytics dashboard built in Power BI using a simulated national pro
 </p>
 
 <p align="center">
-  <img src="dashboard/dashboard_overview.png" width="950"/>
+  <img src="dashboard/dashboard.png" width="1000"/>
 </p>
 
----
+<br>
 
-## Project Overview
+<div align="center">
 
-This project is a simulated national programme operations analytics environment built using Python and Power BI. The solution models operational reporting workflows across large-scale digital training and engagement programmes, with a focus on learner participation, programme performance, engagement tracking, and regional monitoring.
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-The dashboard combines a multi-table relational data model with operational KPI reporting to provide executive-level visibility into programme delivery and learner engagement trends.
-
----
-
-## Objectives
-
-The dashboard was designed to:
-
-- Monitor learner participation across programmes and regions
-- Track operational KPIs such as completion rate and engagement performance
-- Analyse demographic participation patterns
-- Support programme performance and operational decision-making
-- Simulate real-world monitoring and evaluation reporting workflows
+</div>
 
 ---
 
-## Tools & Technologies
+<h2>Project Overview</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+This project simulates a national programme operations reporting environment designed for monitoring learner participation, engagement, programme delivery, and regional performance across large-scale digital learning initiatives.
+</p>
+
+<p>
+The solution combines Python-generated operational datasets with Power BI reporting workflows to model executive-level monitoring and evaluation systems used in programme operations and decision support environments.
 </p>
 
 ---
 
-## Dataset Structure
-
-The dataset was generated programmatically in Python and structured as a relational model consisting of:
-
-### 1. Learners Table
-
-Contains learner demographic and profile information including:
-
-- Gender
-- Age Group
-- State of Origin
-- State of Residence
-- Education Level
-- Employment Status
-- Internet Quality
-- Registration Source
-
-### 2. Programmes Table
-
-Contains programme-level operational information including:
-
-- Programme Type
-- Provider
-- Programme Duration
-- Start & End Dates
-- Participant Targets
-
-### 3. Programme Participation Table
-
-Contains transactional participation-level records including:
-
-- Engagement Score
-- Attendance Rate
-- Quiz Score
-- Completion Status
-- Dropout Reason
-- Risk Level
-- Programme Participation Activity
-
-The final dataset simulates over 1 million participation records across multiple programme categories and operational dimensions.
-
----
-
-## Dashboard Features
-
-### Executive KPI Monitoring
-
-- Learners Reached
-- Programme Engagements
-- Programme Completion Rate
-- Average Engagement Score
-- Active Programmes
-
-### Operational Monitoring
-
-- Monthly Participation Trend Analysis
-- Programme Participation Mix
-- Completion Status Distribution
-- Regional Participation Analysis
-- Top Participating States
-
-### Learner Insights
-
-- Gender Distribution
-- Age Group Distribution
-- Engagement Monitoring
-
-### Interactive Filtering
-
-The dashboard includes interactive slicers for:
-
-- Year
-- Provider
-- Programme Type
-
----
-
-## Dashboard Preview
+<h2>Dashboard Preview</h2>
 
 <div align="center">
   <img src="dashboard/dashboard_overview.png" width="1000"/>
 </div>
 
----
+<br>
 
-## Project Workflow
+<h2>Data Model</h2>
 
-1. Generated a large-scale simulated operational dataset using Python
-2. Structured the dataset into a relational model
-3. Imported and modelled the data in Power BI
-4. Created KPI measures using DAX
-5. Designed an executive operational dashboard for programme monitoring and reporting
+<div align="center">
+  <img src="dashboard/data_model.png" width="950"/>
+</div>
 
 ---
 
-## Key Analytical Themes
+<h2>Key Features</h2>
 
-- Programme Operations
-- Learner Engagement
-- Participation Trends
-- Regional Performance
-- Monitoring & Evaluation
-- Operational Reporting
+<h3>Executive KPI Monitoring</h3>
+
+<ul>
+  <li>Learners Reached</li>
+  <li>Programme Engagements</li>
+  <li>Programme Completion Rate</li>
+  <li>Average Engagement Score</li>
+  <li>Active Programmes</li>
+</ul>
+
+<h3>Operational Monitoring</h3>
+
+<ul>
+  <li>Monthly Participation Trend Analysis</li>
+  <li>Programme Participation Mix</li>
+  <li>Completion Status Distribution</li>
+  <li>Regional Participation Analysis</li>
+  <li>Top Participating States</li>
+</ul>
+
+<h3>Learner Insights</h3>
+
+<ul>
+  <li>Gender Distribution</li>
+  <li>Age Group Distribution</li>
+  <li>Demographic Participation Analysis</li>
+</ul>
+
+<h3>Interactive Filtering</h3>
+
+<ul>
+  <li>Date</li>
+  <li>Provider</li>
+  <li>Programme Type</li>
+</ul>
 
 ---
 
-## Repository Structure
+<h2>Dataset Structure</h2>
 
-```text
-national-programme-operations-dashboard/
-│
-├── dashboard/
-│   ├── dashboard_overview.png
-│
-├── scripts/
-│   ├── generate_dataset.py
-│
-├── README.md
-├── requirements.txt
+<p>
+The dataset was generated programmatically in Python and structured into a multi-table relational model consisting of:
+</p>
+
+<ul>
+  <li><strong>Learners Table</strong> — demographic and learner profile information</li>
+  <li><strong>Programmes Table</strong> — programme operational metadata and scheduling information</li>
+  <li><strong>Programme Participation Table</strong> — transactional participation, engagement, and completion records</li>
+</ul>
+
+<p>
+The final dataset simulates over 1 million participation records across multiple programme categories, providers, and operational dimensions.
+</p>
+
+---
+
+<h2>Analytical Themes</h2>
+
+<ul>
+  <li>Programme Operations</li>
+  <li>Learner Engagement</li>
+  <li>Participation Trends</li>
+  <li>Regional Performance</li>
+  <li>Monitoring & Evaluation</li>
+  <li>Operational Reporting</li>
+</ul>
+
+---
+
+<h2>Potential Extended Analysis</h2>
+
+<ul>
+  <li>Learner retention analysis</li>
+  <li>Cohort participation analysis</li>
+  <li>Provider performance benchmarking</li>
+  <li>Programme completion forecasting</li>
+  <li>Regional engagement comparisons</li>
+  <li>Attendance and assessment correlation analysis</li>
+  <li>Dropout risk prediction modelling</li>
+  <li>Operational capacity planning</li>
+  <li>Time-series participation forecasting</li>
+  <li>Programme effectiveness scoring</li>
+</ul>
+
+---
+
+<h2>Notes</h2>
+
+<p>
+The full participation dataset was excluded from the repository due to file size limitations.
+</p>
+
+---
+
+<h2>Author</h2>
+
+<strong>Efe Godson Akpobasa</strong>
+
+<p>
+Data Analytics & Engineering | Programme Operations, Commercial & Marketing Intelligence | SQL, Power BI, Python
+</p>
+:::
