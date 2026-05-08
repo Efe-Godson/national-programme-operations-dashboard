@@ -1,11 +1,3 @@
-
-at the bottom.
-
-That turns the entire README into a code block instead of rendering the HTML.
-
-Use THIS exact version directly in `README.md` with NO code fences.
-
-:::writing{variant="standard" id="26418"}
 <h1 align="center">National Programme Operations Dashboard</h1>
 
 <p align="center">
@@ -40,14 +32,6 @@ The solution combines Python-generated operational datasets with Power BI report
 </p>
 
 ---
-
-<h2>Dashboard Preview</h2>
-
-<div align="center">
-  <img src="dashboard/dashboard_overview.png" width="1000"/>
-</div>
-
-<br>
 
 <h2>Data Model</h2>
 
@@ -160,4 +144,3 @@ The full participation dataset was excluded from the repository due to file size
 <p>
 Data Analytics & Engineering | Programme Operations, Commercial & Marketing Intelligence | SQL, Power BI, Python
 </p>
-:::
