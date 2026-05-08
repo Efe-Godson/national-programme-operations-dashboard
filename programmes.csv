@@ -1,0 +1,451 @@
+programme_id,programme_name,programme_type,provider,start_date,end_date,duration_days,participants_target
+PRG00000,Digital Marketing,Core Programme,Utiva,2024-10-08,2024-11-25,48,225
+PRG00001,Web Development,Core Programme,DataCamp Africa,2024-04-14,2024-06-02,49,954
+PRG00002,Mentor Introduction,Orientation,Tech4Dev,2025-03-08,2025-03-09,1,5837
+PRG00003,CV Writing,Masterclass,AltSchool,2024-08-26,2024-08-29,3,2291
+PRG00004,Product Design,Core Programme,DataCamp Africa,2024-07-22,2024-09-05,45,774
+PRG00005,Remote Work Essentials,Masterclass,Decagon,2024-08-13,2024-08-20,7,3936
+PRG00006,Product Design,Core Programme,TalentQL,2024-01-07,2024-02-29,53,1028
+PRG00007,LinkedIn Optimisation,Masterclass,Utiva,2024-10-11,2024-10-17,6,3287
+PRG00008,Programme Orientation,Orientation,Decagon,2024-04-04,2024-04-06,2,1837
+PRG00009,CV Writing,Masterclass,Ingressive,2025-09-10,2025-09-15,5,3317
+PRG00010,CV Writing,Masterclass,Decagon,2024-05-07,2024-05-13,6,4892
+PRG00011,CV Writing,Masterclass,AltSchool,2025-10-05,2025-10-12,7,2901
+PRG00012,Freelancing,Masterclass,Tech4Dev,2025-12-22,2025-12-29,7,2075
+PRG00013,Data Analytics,Core Programme,Tech4Dev,2024-10-23,2024-12-14,52,991
+PRG00014,AI Engineering,Core Programme,Decagon,2024-04-13,2024-06-04,52,1087
+PRG00015,Platform Walkthrough,Orientation,Utiva,2025-01-08,2025-01-10,2,6207
+PRG00016,Cybersecurity,Core Programme,Ingressive,2025-11-17,2026-01-12,56,414
+PRG00017,Digital Marketing,Core Programme,Utiva,2025-10-12,2025-11-28,47,823
+PRG00018,Product Design,Core Programme,Decagon,2025-04-18,2025-06-09,52,367
+PRG00019,Cybersecurity,Core Programme,TalentQL,2024-11-28,2025-01-19,52,901
+PRG00020,CV Writing,Masterclass,Decagon,2024-11-19,2024-11-23,4,762
+PRG00021,Cybersecurity,Core Programme,DataCamp Africa,2025-08-03,2025-09-19,47,416
+PRG00022,Cybersecurity,Core Programme,Decagon,2025-05-26,2025-07-16,51,871
+PRG00023,Remote Work Essentials,Masterclass,Utiva,2024-09-28,2024-10-04,6,1670
+PRG00024,LinkedIn Optimisation,Masterclass,DataCamp Africa,2024-09-26,2024-10-03,7,4915
+PRG00025,Mentor Introduction,Orientation,Ingressive,2025-02-12,2025-02-14,2,5780
+PRG00026,Programme Orientation,Orientation,Tech4Dev,2025-05-20,2025-05-21,1,5174
+PRG00027,AI Engineering,Core Programme,Utiva,2024-04-22,2024-06-07,46,1081
+PRG00028,Mentor Introduction,Orientation,Decagon,2025-11-27,2025-11-28,1,7488
+PRG00029,Career Readiness,Masterclass,AltSchool,2025-01-25,2025-01-28,3,3652
+PRG00030,Cloud Computing,Core Programme,TalentQL,2025-07-20,2025-09-11,53,1194
+PRG00031,CV Writing,Masterclass,TalentQL,2024-09-30,2024-10-03,3,4898
+PRG00032,Remote Work Essentials,Masterclass,Decagon,2024-10-27,2024-11-01,5,1413
+PRG00033,Web Development,Core Programme,AltSchool,2024-09-26,2024-11-24,59,203
+PRG00034,LinkedIn Optimisation,Masterclass,Ingressive,2025-10-02,2025-10-09,7,1371
+PRG00035,AI Engineering,Core Programme,TalentQL,2025-01-17,2025-03-09,51,356
+PRG00036,LinkedIn Optimisation,Masterclass,AltSchool,2024-01-01,2024-01-08,7,4844
+PRG00037,Freelancing,Masterclass,Ingressive,2024-04-24,2024-04-30,6,659
+PRG00038,Freelancing,Masterclass,AltSchool,2024-09-03,2024-09-07,4,974
+PRG00039,CV Writing,Masterclass,TalentQL,2024-03-11,2024-03-14,3,4481
+PRG00040,Career Readiness,Masterclass,Decagon,2025-11-06,2025-11-10,4,1551
+PRG00041,Product Design,Core Programme,TalentQL,2025-06-24,2025-08-13,50,471
+PRG00042,Career Readiness,Masterclass,TalentQL,2025-07-06,2025-07-12,6,2235
+PRG00043,Remote Work Essentials,Masterclass,DataCamp Africa,2025-02-12,2025-02-16,4,3053
+PRG00044,Mentor Introduction,Orientation,Decagon,2025-06-13,2025-06-15,2,4588
+PRG00045,CV Writing,Masterclass,Ingressive,2024-03-06,2024-03-10,4,2340
+PRG00046,Data Analytics,Core Programme,Tech4Dev,2024-08-13,2024-10-04,52,802
+PRG00047,CV Writing,Masterclass,Tech4Dev,2024-03-10,2024-03-13,3,2375
+PRG00048,Freelancing,Masterclass,Ingressive,2024-08-31,2024-09-03,3,4711
+PRG00049,Digital Marketing,Core Programme,Utiva,2025-07-06,2025-09-04,60,419
+PRG00050,Mentor Introduction,Orientation,TalentQL,2025-04-29,2025-05-01,2,2990
+PRG00051,AI Productivity,Masterclass,DataCamp Africa,2024-04-09,2024-04-13,4,1272
+PRG00052,Cloud Computing,Core Programme,Decagon,2025-02-24,2025-04-21,56,633
+PRG00053,AI Engineering,Core Programme,DataCamp Africa,2025-10-31,2025-12-16,46,889
+PRG00054,Data Analytics,Core Programme,TalentQL,2024-12-13,2025-01-28,46,612
+PRG00055,Programme Orientation,Orientation,AltSchool,2024-07-13,2024-07-14,1,2569
+PRG00056,AI Productivity,Masterclass,Ingressive,2024-07-06,2024-07-10,4,3956
+PRG00057,Platform Walkthrough,Orientation,TalentQL,2025-03-29,2025-03-30,1,1617
+PRG00058,AI Engineering,Core Programme,AltSchool,2025-10-29,2025-12-16,48,251
+PRG00059,CV Writing,Masterclass,Decagon,2024-06-19,2024-06-22,3,2436
+PRG00060,AI Productivity,Masterclass,Tech4Dev,2025-02-14,2025-02-20,6,2251
+PRG00061,LinkedIn Optimisation,Masterclass,Ingressive,2025-02-03,2025-02-09,6,517
+PRG00062,AI Engineering,Core Programme,DataCamp Africa,2025-03-09,2025-05-07,59,492
+PRG00063,Mentor Introduction,Orientation,Ingressive,2024-07-13,2024-07-15,2,2268
+PRG00064,LinkedIn Optimisation,Masterclass,DataCamp Africa,2024-03-03,2024-03-06,3,4941
+PRG00065,Cybersecurity,Core Programme,Decagon,2025-08-21,2025-10-06,46,251
+PRG00066,Product Design,Core Programme,Tech4Dev,2025-06-04,2025-07-24,50,258
+PRG00067,LinkedIn Optimisation,Masterclass,TalentQL,2025-11-22,2025-11-25,3,1056
+PRG00068,Programme Orientation,Orientation,Utiva,2025-08-06,2025-08-08,2,1982
+PRG00069,Career Readiness,Masterclass,Tech4Dev,2025-09-26,2025-10-03,7,825
+PRG00070,Cloud Computing,Core Programme,Utiva,2024-09-24,2024-11-18,55,1157
+PRG00071,Remote Work Essentials,Masterclass,Decagon,2024-09-28,2024-10-03,5,2455
+PRG00072,Web Development,Core Programme,TalentQL,2024-11-19,2025-01-12,54,668
+PRG00073,CV Writing,Masterclass,AltSchool,2025-09-28,2025-10-01,3,4254
+PRG00074,Data Analytics,Core Programme,AltSchool,2024-08-06,2024-09-22,47,750
+PRG00075,Cybersecurity,Core Programme,Tech4Dev,2024-12-23,2025-02-10,49,1155
+PRG00076,LinkedIn Optimisation,Masterclass,Decagon,2024-06-10,2024-06-15,5,2834
+PRG00077,AI Engineering,Core Programme,AltSchool,2025-10-31,2025-12-24,54,826
+PRG00078,CV Writing,Masterclass,Tech4Dev,2025-11-10,2025-11-17,7,2952
+PRG00079,Web Development,Core Programme,DataCamp Africa,2024-04-19,2024-06-11,53,318
+PRG00080,Mentor Introduction,Orientation,AltSchool,2024-10-15,2024-10-16,1,3231
+PRG00081,Programme Orientation,Orientation,DataCamp Africa,2025-12-04,2025-12-06,2,2667
+PRG00082,Freelancing,Masterclass,TalentQL,2024-09-14,2024-09-21,7,4502
+PRG00083,Data Analytics,Core Programme,TalentQL,2025-03-09,2025-04-25,47,849
+PRG00084,Platform Walkthrough,Orientation,TalentQL,2024-12-07,2024-12-08,1,1029
+PRG00085,Web Development,Core Programme,AltSchool,2025-03-28,2025-05-20,53,365
+PRG00086,Remote Work Essentials,Masterclass,Tech4Dev,2024-04-24,2024-04-30,6,579
+PRG00087,Digital Marketing,Core Programme,TalentQL,2024-02-06,2024-03-26,49,758
+PRG00088,Freelancing,Masterclass,Utiva,2025-03-16,2025-03-23,7,1713
+PRG00089,CV Writing,Masterclass,Ingressive,2024-02-10,2024-02-15,5,3487
+PRG00090,Programme Orientation,Orientation,Ingressive,2024-04-15,2024-04-16,1,6463
+PRG00091,AI Engineering,Core Programme,DataCamp Africa,2025-09-27,2025-11-24,58,1197
+PRG00092,Web Development,Core Programme,TalentQL,2024-06-15,2024-08-06,52,1085
+PRG00093,Programme Orientation,Orientation,DataCamp Africa,2024-07-02,2024-07-04,2,1203
+PRG00094,Freelancing,Masterclass,Utiva,2024-09-30,2024-10-06,6,2532
+PRG00095,AI Engineering,Core Programme,TalentQL,2024-02-09,2024-03-28,48,591
+PRG00096,AI Productivity,Masterclass,Ingressive,2025-04-16,2025-04-20,4,2134
+PRG00097,Freelancing,Masterclass,DataCamp Africa,2024-01-25,2024-01-29,4,2326
+PRG00098,Web Development,Core Programme,TalentQL,2024-10-12,2024-12-08,57,536
+PRG00099,CV Writing,Masterclass,AltSchool,2025-10-18,2025-10-23,5,3376
+PRG00100,AI Productivity,Masterclass,Tech4Dev,2024-01-29,2024-02-05,7,3212
+PRG00101,Freelancing,Masterclass,Tech4Dev,2024-02-09,2024-02-13,4,2674
+PRG00102,Product Design,Core Programme,Decagon,2024-11-17,2025-01-14,58,553
+PRG00103,Mentor Introduction,Orientation,Utiva,2025-08-13,2025-08-14,1,4155
+PRG00104,Cybersecurity,Core Programme,Tech4Dev,2025-03-22,2025-05-07,46,925
+PRG00105,Career Readiness,Masterclass,Decagon,2025-01-07,2025-01-14,7,2114
+PRG00106,CV Writing,Masterclass,TalentQL,2025-11-10,2025-11-15,5,3071
+PRG00107,Data Analytics,Core Programme,DataCamp Africa,2024-11-12,2025-01-05,54,719
+PRG00108,AI Productivity,Masterclass,Ingressive,2025-12-14,2025-12-19,5,3796
+PRG00109,Product Design,Core Programme,DataCamp Africa,2025-03-06,2025-04-24,49,396
+PRG00110,AI Productivity,Masterclass,AltSchool,2025-02-19,2025-02-23,4,2965
+PRG00111,AI Engineering,Core Programme,Utiva,2024-10-20,2024-12-04,45,511
+PRG00112,AI Productivity,Masterclass,Decagon,2025-04-21,2025-04-28,7,3139
+PRG00113,AI Productivity,Masterclass,TalentQL,2025-04-29,2025-05-03,4,4687
+PRG00114,Remote Work Essentials,Masterclass,AltSchool,2024-10-17,2024-10-21,4,1194
+PRG00115,Remote Work Essentials,Masterclass,TalentQL,2024-04-05,2024-04-12,7,3245
+PRG00116,AI Engineering,Core Programme,Utiva,2024-11-13,2025-01-04,52,888
+PRG00117,AI Engineering,Core Programme,Tech4Dev,2024-01-26,2024-03-17,51,350
+PRG00118,LinkedIn Optimisation,Masterclass,Decagon,2025-04-11,2025-04-17,6,1096
+PRG00119,Remote Work Essentials,Masterclass,Decagon,2025-12-14,2025-12-21,7,2092
+PRG00120,Platform Walkthrough,Orientation,DataCamp Africa,2024-05-31,2024-06-02,2,2998
+PRG00121,Mentor Introduction,Orientation,TalentQL,2024-04-19,2024-04-20,1,7151
+PRG00122,Cloud Computing,Core Programme,AltSchool,2025-12-13,2026-02-03,52,380
+PRG00123,AI Productivity,Masterclass,Decagon,2024-05-04,2024-05-07,3,2541
+PRG00124,Programme Orientation,Orientation,AltSchool,2025-06-27,2025-06-29,2,6468
+PRG00125,Product Design,Core Programme,AltSchool,2025-03-29,2025-05-23,55,1172
+PRG00126,Remote Work Essentials,Masterclass,Decagon,2025-07-15,2025-07-22,7,3995
+PRG00127,LinkedIn Optimisation,Masterclass,TalentQL,2024-09-22,2024-09-28,6,4186
+PRG00128,LinkedIn Optimisation,Masterclass,DataCamp Africa,2025-05-11,2025-05-16,5,4770
+PRG00129,LinkedIn Optimisation,Masterclass,DataCamp Africa,2024-03-20,2024-03-25,5,4103
+PRG00130,Freelancing,Masterclass,Ingressive,2024-12-09,2024-12-13,4,2725
+PRG00131,Career Readiness,Masterclass,Utiva,2024-06-03,2024-06-06,3,1633
+PRG00132,AI Productivity,Masterclass,Decagon,2024-03-06,2024-03-10,4,2252
+PRG00133,AI Productivity,Masterclass,Decagon,2025-04-22,2025-04-27,5,4945
+PRG00134,CV Writing,Masterclass,TalentQL,2025-02-02,2025-02-06,4,3941
+PRG00135,Career Readiness,Masterclass,Tech4Dev,2025-05-03,2025-05-06,3,3616
+PRG00136,Cybersecurity,Core Programme,TalentQL,2025-02-03,2025-03-29,54,971
+PRG00137,AI Productivity,Masterclass,Utiva,2025-09-09,2025-09-16,7,4973
+PRG00138,Platform Walkthrough,Orientation,Decagon,2025-03-22,2025-03-23,1,3235
+PRG00139,CV Writing,Masterclass,DataCamp Africa,2025-11-15,2025-11-21,6,3253
+PRG00140,Platform Walkthrough,Orientation,Utiva,2025-04-23,2025-04-24,1,7885
+PRG00141,Product Design,Core Programme,AltSchool,2025-02-07,2025-03-24,45,1128
+PRG00142,Career Readiness,Masterclass,Decagon,2025-10-20,2025-10-23,3,1187
+PRG00143,LinkedIn Optimisation,Masterclass,Ingressive,2024-02-21,2024-02-27,6,1988
+PRG00144,AI Productivity,Masterclass,Ingressive,2025-04-10,2025-04-15,5,2233
+PRG00145,Cybersecurity,Core Programme,Ingressive,2025-03-07,2025-05-03,57,484
+PRG00146,Programme Orientation,Orientation,Tech4Dev,2025-07-06,2025-07-08,2,1158
+PRG00147,Cybersecurity,Core Programme,TalentQL,2024-03-11,2024-05-02,52,865
+PRG00148,Digital Marketing,Core Programme,Utiva,2024-02-01,2024-03-18,46,972
+PRG00149,Web Development,Core Programme,Utiva,2024-06-05,2024-07-20,45,836
+PRG00150,Web Development,Core Programme,AltSchool,2024-04-27,2024-06-26,60,885
+PRG00151,LinkedIn Optimisation,Masterclass,Utiva,2025-01-12,2025-01-18,6,2599
+PRG00152,Career Readiness,Masterclass,Ingressive,2024-06-16,2024-06-23,7,1438
+PRG00153,CV Writing,Masterclass,AltSchool,2024-11-15,2024-11-22,7,710
+PRG00154,Digital Marketing,Core Programme,Tech4Dev,2024-07-22,2024-09-17,57,606
+PRG00155,Career Readiness,Masterclass,TalentQL,2025-12-14,2025-12-18,4,1334
+PRG00156,Platform Walkthrough,Orientation,TalentQL,2025-08-02,2025-08-03,1,7522
+PRG00157,CV Writing,Masterclass,DataCamp Africa,2025-03-14,2025-03-19,5,4864
+PRG00158,Platform Walkthrough,Orientation,Ingressive,2025-10-25,2025-10-26,1,5144
+PRG00159,Programme Orientation,Orientation,Tech4Dev,2025-05-16,2025-05-18,2,7736
+PRG00160,AI Productivity,Masterclass,Utiva,2025-12-25,2025-12-30,5,4266
+PRG00161,AI Productivity,Masterclass,Ingressive,2025-10-28,2025-11-01,4,4774
+PRG00162,Product Design,Core Programme,TalentQL,2025-03-22,2025-05-21,60,676
+PRG00163,Digital Marketing,Core Programme,TalentQL,2024-09-08,2024-10-31,53,530
+PRG00164,Data Analytics,Core Programme,Utiva,2025-04-06,2025-05-29,53,1102
+PRG00165,AI Productivity,Masterclass,Tech4Dev,2024-12-10,2024-12-17,7,3604
+PRG00166,Cloud Computing,Core Programme,Utiva,2025-05-14,2025-07-08,55,386
+PRG00167,Platform Walkthrough,Orientation,AltSchool,2024-10-13,2024-10-15,2,3788
+PRG00168,Remote Work Essentials,Masterclass,Utiva,2025-06-13,2025-06-18,5,583
+PRG00169,CV Writing,Masterclass,AltSchool,2025-05-15,2025-05-19,4,3829
+PRG00170,AI Engineering,Core Programme,DataCamp Africa,2025-05-02,2025-06-23,52,907
+PRG00171,Digital Marketing,Core Programme,Tech4Dev,2024-01-18,2024-03-18,60,658
+PRG00172,Cybersecurity,Core Programme,Utiva,2025-12-09,2026-01-30,52,614
+PRG00173,Platform Walkthrough,Orientation,AltSchool,2025-07-20,2025-07-22,2,4876
+PRG00174,Cybersecurity,Core Programme,Ingressive,2025-07-17,2025-09-13,58,963
+PRG00175,Cybersecurity,Core Programme,Ingressive,2024-11-09,2025-01-07,59,477
+PRG00176,LinkedIn Optimisation,Masterclass,Tech4Dev,2024-11-19,2024-11-22,3,2077
+PRG00177,Digital Marketing,Core Programme,DataCamp Africa,2024-08-09,2024-09-28,50,396
+PRG00178,AI Productivity,Masterclass,Ingressive,2025-09-03,2025-09-08,5,4797
+PRG00179,Data Analytics,Core Programme,Ingressive,2024-08-20,2024-10-10,51,503
+PRG00180,LinkedIn Optimisation,Masterclass,AltSchool,2025-12-26,2025-12-31,5,615
+PRG00181,Web Development,Core Programme,AltSchool,2024-02-25,2024-04-18,53,246
+PRG00182,Freelancing,Masterclass,TalentQL,2024-04-15,2024-04-19,4,4521
+PRG00183,Data Analytics,Core Programme,Decagon,2025-05-05,2025-06-28,54,680
+PRG00184,Freelancing,Masterclass,TalentQL,2024-09-15,2024-09-19,4,920
+PRG00185,Cloud Computing,Core Programme,Decagon,2024-03-07,2024-04-24,48,1041
+PRG00186,AI Productivity,Masterclass,Utiva,2024-06-04,2024-06-07,3,939
+PRG00187,Mentor Introduction,Orientation,Tech4Dev,2024-09-11,2024-09-13,2,1697
+PRG00188,Mentor Introduction,Orientation,TalentQL,2025-09-02,2025-09-04,2,5966
+PRG00189,Product Design,Core Programme,Decagon,2025-06-19,2025-08-10,52,994
+PRG00190,AI Productivity,Masterclass,Decagon,2025-08-25,2025-08-31,6,2935
+PRG00191,Cybersecurity,Core Programme,TalentQL,2024-04-11,2024-05-27,46,824
+PRG00192,Web Development,Core Programme,Tech4Dev,2025-11-07,2025-12-28,51,470
+PRG00193,Web Development,Core Programme,Tech4Dev,2025-07-19,2025-09-09,52,377
+PRG00194,Programme Orientation,Orientation,DataCamp Africa,2025-04-06,2025-04-07,1,4346
+PRG00195,Product Design,Core Programme,Utiva,2024-02-03,2024-04-03,60,498
+PRG00196,Cybersecurity,Core Programme,Tech4Dev,2025-04-09,2025-06-02,54,919
+PRG00197,Remote Work Essentials,Masterclass,AltSchool,2025-10-02,2025-10-06,4,2667
+PRG00198,Digital Marketing,Core Programme,AltSchool,2024-04-27,2024-06-17,51,635
+PRG00199,LinkedIn Optimisation,Masterclass,Tech4Dev,2024-05-25,2024-05-29,4,2676
+PRG00200,CV Writing,Masterclass,DataCamp Africa,2025-09-01,2025-09-05,4,3019
+PRG00201,AI Engineering,Core Programme,Decagon,2024-05-07,2024-06-30,54,649
+PRG00202,Mentor Introduction,Orientation,Ingressive,2025-02-16,2025-02-18,2,6732
+PRG00203,Career Readiness,Masterclass,Tech4Dev,2025-03-24,2025-03-31,7,4545
+PRG00204,Mentor Introduction,Orientation,AltSchool,2024-11-26,2024-11-27,1,4539
+PRG00205,Freelancing,Masterclass,DataCamp Africa,2024-08-22,2024-08-25,3,1248
+PRG00206,AI Engineering,Core Programme,TalentQL,2025-11-19,2026-01-03,45,983
+PRG00207,Freelancing,Masterclass,Decagon,2024-06-28,2024-07-05,7,829
+PRG00208,Career Readiness,Masterclass,AltSchool,2024-07-04,2024-07-10,6,2778
+PRG00209,AI Productivity,Masterclass,Ingressive,2025-04-26,2025-05-02,6,1247
+PRG00210,AI Productivity,Masterclass,Tech4Dev,2025-11-17,2025-11-22,5,3130
+PRG00211,LinkedIn Optimisation,Masterclass,Decagon,2025-12-11,2025-12-16,5,3872
+PRG00212,Cybersecurity,Core Programme,Tech4Dev,2025-07-17,2025-09-12,57,1033
+PRG00213,Cloud Computing,Core Programme,Ingressive,2024-09-15,2024-11-01,47,522
+PRG00214,Programme Orientation,Orientation,DataCamp Africa,2024-01-02,2024-01-04,2,5215
+PRG00215,Mentor Introduction,Orientation,Utiva,2024-02-25,2024-02-27,2,4385
+PRG00216,Product Design,Core Programme,DataCamp Africa,2025-05-25,2025-07-20,56,837
+PRG00217,Cloud Computing,Core Programme,AltSchool,2024-09-30,2024-11-15,46,408
+PRG00218,Web Development,Core Programme,Decagon,2025-12-16,2026-02-08,54,648
+PRG00219,Programme Orientation,Orientation,TalentQL,2025-09-15,2025-09-16,1,6161
+PRG00220,Web Development,Core Programme,Tech4Dev,2025-07-18,2025-09-06,50,518
+PRG00221,Product Design,Core Programme,TalentQL,2024-08-18,2024-10-15,58,295
+PRG00222,Programme Orientation,Orientation,TalentQL,2025-10-25,2025-10-27,2,1962
+PRG00223,LinkedIn Optimisation,Masterclass,DataCamp Africa,2025-06-05,2025-06-11,6,2890
+PRG00224,Platform Walkthrough,Orientation,Decagon,2025-05-09,2025-05-11,2,7838
+PRG00225,LinkedIn Optimisation,Masterclass,Utiva,2025-01-27,2025-02-02,6,1684
+PRG00226,Mentor Introduction,Orientation,TalentQL,2024-10-09,2024-10-10,1,1571
+PRG00227,AI Productivity,Masterclass,TalentQL,2024-09-30,2024-10-05,5,4659
+PRG00228,Data Analytics,Core Programme,TalentQL,2024-11-01,2024-12-25,54,943
+PRG00229,Career Readiness,Masterclass,Decagon,2024-06-01,2024-06-08,7,4511
+PRG00230,Career Readiness,Masterclass,AltSchool,2024-12-06,2024-12-12,6,3327
+PRG00231,Mentor Introduction,Orientation,TalentQL,2024-11-25,2024-11-27,2,4730
+PRG00232,Web Development,Core Programme,Utiva,2025-01-27,2025-03-20,52,785
+PRG00233,AI Engineering,Core Programme,DataCamp Africa,2024-11-21,2025-01-18,58,244
+PRG00234,Cloud Computing,Core Programme,TalentQL,2025-11-10,2026-01-06,57,595
+PRG00235,AI Engineering,Core Programme,Utiva,2024-02-07,2024-03-27,49,707
+PRG00236,Product Design,Core Programme,TalentQL,2024-04-12,2024-06-06,55,1090
+PRG00237,Platform Walkthrough,Orientation,Tech4Dev,2025-04-12,2025-04-13,1,5308
+PRG00238,Digital Marketing,Core Programme,Utiva,2025-11-01,2025-12-20,49,619
+PRG00239,CV Writing,Masterclass,AltSchool,2024-12-12,2024-12-18,6,2671
+PRG00240,Mentor Introduction,Orientation,TalentQL,2024-03-23,2024-03-25,2,6323
+PRG00241,Cybersecurity,Core Programme,DataCamp Africa,2024-11-20,2025-01-16,57,1177
+PRG00242,Digital Marketing,Core Programme,Tech4Dev,2025-07-08,2025-09-06,60,1093
+PRG00243,Career Readiness,Masterclass,DataCamp Africa,2025-10-08,2025-10-11,3,2423
+PRG00244,Cybersecurity,Core Programme,Decagon,2024-04-02,2024-05-24,52,964
+PRG00245,Programme Orientation,Orientation,DataCamp Africa,2024-06-19,2024-06-20,1,4634
+PRG00246,Freelancing,Masterclass,TalentQL,2024-11-28,2024-12-01,3,876
+PRG00247,Data Analytics,Core Programme,Decagon,2025-01-18,2025-03-13,54,567
+PRG00248,Programme Orientation,Orientation,AltSchool,2025-02-25,2025-02-26,1,5351
+PRG00249,Remote Work Essentials,Masterclass,Tech4Dev,2024-06-28,2024-07-02,4,1892
+PRG00250,Mentor Introduction,Orientation,Utiva,2025-11-30,2025-12-02,2,6076
+PRG00251,AI Productivity,Masterclass,Decagon,2024-08-25,2024-09-01,7,1672
+PRG00252,Digital Marketing,Core Programme,DataCamp Africa,2024-09-18,2024-11-10,53,670
+PRG00253,CV Writing,Masterclass,AltSchool,2025-11-24,2025-11-30,6,2856
+PRG00254,Programme Orientation,Orientation,AltSchool,2024-12-19,2024-12-20,1,4618
+PRG00255,Cybersecurity,Core Programme,Decagon,2024-09-13,2024-11-10,58,906
+PRG00256,Freelancing,Masterclass,Tech4Dev,2025-05-09,2025-05-13,4,3651
+PRG00257,LinkedIn Optimisation,Masterclass,Ingressive,2025-08-11,2025-08-17,6,3440
+PRG00258,Digital Marketing,Core Programme,Decagon,2025-11-05,2025-12-29,54,222
+PRG00259,Freelancing,Masterclass,DataCamp Africa,2025-09-12,2025-09-15,3,901
+PRG00260,AI Productivity,Masterclass,TalentQL,2025-09-13,2025-09-18,5,2385
+PRG00261,Platform Walkthrough,Orientation,AltSchool,2024-07-13,2024-07-14,1,6215
+PRG00262,Cybersecurity,Core Programme,DataCamp Africa,2024-04-09,2024-05-28,49,843
+PRG00263,Remote Work Essentials,Masterclass,Tech4Dev,2025-03-27,2025-03-30,3,3030
+PRG00264,Product Design,Core Programme,Tech4Dev,2024-05-14,2024-07-09,56,949
+PRG00265,Freelancing,Masterclass,Utiva,2024-06-28,2024-07-03,5,3903
+PRG00266,LinkedIn Optimisation,Masterclass,AltSchool,2025-06-27,2025-07-04,7,3497
+PRG00267,Platform Walkthrough,Orientation,TalentQL,2025-05-08,2025-05-09,1,3105
+PRG00268,Freelancing,Masterclass,Tech4Dev,2025-04-24,2025-04-29,5,1443
+PRG00269,LinkedIn Optimisation,Masterclass,Ingressive,2025-07-24,2025-07-28,4,3755
+PRG00270,CV Writing,Masterclass,AltSchool,2024-09-27,2024-10-03,6,614
+PRG00271,Data Analytics,Core Programme,DataCamp Africa,2025-11-19,2026-01-17,59,577
+PRG00272,Digital Marketing,Core Programme,TalentQL,2025-01-25,2025-03-19,53,798
+PRG00273,Remote Work Essentials,Masterclass,Utiva,2025-11-22,2025-11-27,5,1387
+PRG00274,Cloud Computing,Core Programme,Ingressive,2025-07-28,2025-09-11,45,834
+PRG00275,Product Design,Core Programme,DataCamp Africa,2024-03-05,2024-04-26,52,863
+PRG00276,AI Engineering,Core Programme,Ingressive,2025-12-18,2026-02-15,59,1131
+PRG00277,Remote Work Essentials,Masterclass,Tech4Dev,2024-05-23,2024-05-29,6,1455
+PRG00278,Programme Orientation,Orientation,Tech4Dev,2024-04-28,2024-04-30,2,5035
+PRG00279,Web Development,Core Programme,Ingressive,2025-04-09,2025-05-28,49,597
+PRG00280,Remote Work Essentials,Masterclass,DataCamp Africa,2025-08-24,2025-08-31,7,3933
+PRG00281,Mentor Introduction,Orientation,Tech4Dev,2025-11-01,2025-11-02,1,4398
+PRG00282,AI Productivity,Masterclass,Tech4Dev,2024-10-13,2024-10-20,7,3843
+PRG00283,Remote Work Essentials,Masterclass,Decagon,2025-03-30,2025-04-04,5,2279
+PRG00284,LinkedIn Optimisation,Masterclass,Ingressive,2025-12-03,2025-12-08,5,1313
+PRG00285,Product Design,Core Programme,Ingressive,2025-02-11,2025-04-08,56,262
+PRG00286,Programme Orientation,Orientation,Tech4Dev,2025-04-10,2025-04-11,1,7947
+PRG00287,Remote Work Essentials,Masterclass,TalentQL,2024-02-21,2024-02-25,4,674
+PRG00288,Platform Walkthrough,Orientation,Utiva,2025-08-01,2025-08-02,1,2031
+PRG00289,Data Analytics,Core Programme,TalentQL,2024-08-09,2024-09-29,51,800
+PRG00290,LinkedIn Optimisation,Masterclass,Tech4Dev,2025-09-02,2025-09-07,5,1708
+PRG00291,Cybersecurity,Core Programme,Ingressive,2025-07-07,2025-08-25,49,333
+PRG00292,Programme Orientation,Orientation,Utiva,2024-01-27,2024-01-28,1,6415
+PRG00293,Data Analytics,Core Programme,AltSchool,2024-08-31,2024-10-26,56,1008
+PRG00294,Cybersecurity,Core Programme,Tech4Dev,2024-09-28,2024-11-12,45,378
+PRG00295,Programme Orientation,Orientation,DataCamp Africa,2024-04-26,2024-04-28,2,5309
+PRG00296,CV Writing,Masterclass,AltSchool,2025-01-05,2025-01-11,6,4172
+PRG00297,Career Readiness,Masterclass,Utiva,2025-05-30,2025-06-02,3,4202
+PRG00298,Career Readiness,Masterclass,Decagon,2024-11-04,2024-11-07,3,4771
+PRG00299,Remote Work Essentials,Masterclass,TalentQL,2025-05-05,2025-05-08,3,998
+PRG00300,Cloud Computing,Core Programme,Decagon,2024-04-20,2024-06-17,58,902
+PRG00301,Mentor Introduction,Orientation,Ingressive,2024-03-23,2024-03-25,2,1602
+PRG00302,Product Design,Core Programme,Ingressive,2024-05-09,2024-06-27,49,267
+PRG00303,Product Design,Core Programme,AltSchool,2025-09-03,2025-10-28,55,590
+PRG00304,Cybersecurity,Core Programme,Decagon,2025-09-11,2025-11-09,59,717
+PRG00305,CV Writing,Masterclass,Decagon,2025-03-16,2025-03-19,3,2261
+PRG00306,Web Development,Core Programme,Decagon,2025-04-09,2025-06-06,58,547
+PRG00307,Cloud Computing,Core Programme,Ingressive,2025-03-13,2025-04-30,48,520
+PRG00308,Remote Work Essentials,Masterclass,DataCamp Africa,2024-06-05,2024-06-10,5,3566
+PRG00309,AI Productivity,Masterclass,Tech4Dev,2024-03-28,2024-03-31,3,1247
+PRG00310,AI Productivity,Masterclass,AltSchool,2024-05-13,2024-05-16,3,3552
+PRG00311,CV Writing,Masterclass,Tech4Dev,2025-11-17,2025-11-24,7,3200
+PRG00312,Cloud Computing,Core Programme,TalentQL,2025-11-12,2026-01-07,56,1094
+PRG00313,Cloud Computing,Core Programme,AltSchool,2024-10-21,2024-12-06,46,1191
+PRG00314,Freelancing,Masterclass,AltSchool,2025-08-14,2025-08-19,5,1348
+PRG00315,Programme Orientation,Orientation,Utiva,2025-05-08,2025-05-09,1,6379
+PRG00316,CV Writing,Masterclass,TalentQL,2024-04-27,2024-05-02,5,3511
+PRG00317,Freelancing,Masterclass,TalentQL,2025-03-15,2025-03-22,7,2352
+PRG00318,Career Readiness,Masterclass,DataCamp Africa,2025-09-15,2025-09-22,7,715
+PRG00319,AI Engineering,Core Programme,Ingressive,2024-07-03,2024-08-25,53,229
+PRG00320,Remote Work Essentials,Masterclass,Tech4Dev,2024-12-25,2024-12-30,5,3283
+PRG00321,LinkedIn Optimisation,Masterclass,Utiva,2024-03-12,2024-03-16,4,3783
+PRG00322,Digital Marketing,Core Programme,Utiva,2025-06-27,2025-08-11,45,293
+PRG00323,Cloud Computing,Core Programme,Utiva,2024-12-15,2025-02-11,58,664
+PRG00324,Cybersecurity,Core Programme,TalentQL,2024-11-28,2025-01-21,54,938
+PRG00325,Mentor Introduction,Orientation,Utiva,2024-06-08,2024-06-09,1,1430
+PRG00326,Career Readiness,Masterclass,Decagon,2024-10-05,2024-10-08,3,1168
+PRG00327,Digital Marketing,Core Programme,Decagon,2025-09-13,2025-11-10,58,697
+PRG00328,AI Productivity,Masterclass,Tech4Dev,2025-06-08,2025-06-13,5,2265
+PRG00329,Cybersecurity,Core Programme,DataCamp Africa,2024-10-17,2024-12-14,58,313
+PRG00330,Remote Work Essentials,Masterclass,DataCamp Africa,2025-06-23,2025-06-30,7,4486
+PRG00331,Platform Walkthrough,Orientation,AltSchool,2025-02-08,2025-02-09,1,2806
+PRG00332,CV Writing,Masterclass,Utiva,2024-11-04,2024-11-07,3,2174
+PRG00333,LinkedIn Optimisation,Masterclass,Tech4Dev,2024-12-01,2024-12-06,5,2871
+PRG00334,Programme Orientation,Orientation,Utiva,2025-03-16,2025-03-18,2,7119
+PRG00335,Web Development,Core Programme,Utiva,2025-12-21,2026-02-16,57,745
+PRG00336,Career Readiness,Masterclass,Decagon,2024-03-14,2024-03-21,7,3401
+PRG00337,Mentor Introduction,Orientation,Decagon,2024-01-20,2024-01-21,1,4573
+PRG00338,Data Analytics,Core Programme,AltSchool,2025-03-15,2025-05-09,55,789
+PRG00339,Cloud Computing,Core Programme,Decagon,2024-04-27,2024-06-24,58,496
+PRG00340,Programme Orientation,Orientation,Decagon,2025-09-24,2025-09-26,2,2407
+PRG00341,Mentor Introduction,Orientation,TalentQL,2025-03-23,2025-03-25,2,1721
+PRG00342,Data Analytics,Core Programme,Decagon,2025-08-26,2025-10-17,52,646
+PRG00343,Product Design,Core Programme,DataCamp Africa,2024-11-13,2024-12-30,47,605
+PRG00344,Freelancing,Masterclass,Tech4Dev,2024-06-21,2024-06-25,4,3228
+PRG00345,Career Readiness,Masterclass,Utiva,2025-06-06,2025-06-09,3,4846
+PRG00346,Freelancing,Masterclass,Tech4Dev,2024-08-29,2024-09-03,5,1709
+PRG00347,LinkedIn Optimisation,Masterclass,AltSchool,2024-06-26,2024-07-01,5,2116
+PRG00348,Web Development,Core Programme,Decagon,2025-10-05,2025-11-21,47,381
+PRG00349,AI Productivity,Masterclass,AltSchool,2025-11-28,2025-12-05,7,4177
+PRG00350,Mentor Introduction,Orientation,Utiva,2024-11-19,2024-11-21,2,6138
+PRG00351,Cloud Computing,Core Programme,DataCamp Africa,2025-03-28,2025-05-14,47,680
+PRG00352,Cybersecurity,Core Programme,Ingressive,2024-02-27,2024-04-20,53,805
+PRG00353,Mentor Introduction,Orientation,Decagon,2025-04-17,2025-04-18,1,3542
+PRG00354,Programme Orientation,Orientation,Tech4Dev,2024-10-20,2024-10-21,1,4020
+PRG00355,Remote Work Essentials,Masterclass,Decagon,2025-01-28,2025-01-31,3,4653
+PRG00356,Product Design,Core Programme,DataCamp Africa,2025-08-08,2025-09-23,46,660
+PRG00357,LinkedIn Optimisation,Masterclass,Utiva,2025-05-28,2025-06-02,5,4396
+PRG00358,Programme Orientation,Orientation,DataCamp Africa,2024-12-17,2024-12-19,2,1847
+PRG00359,Data Analytics,Core Programme,DataCamp Africa,2024-09-10,2024-10-30,50,240
+PRG00360,AI Productivity,Masterclass,AltSchool,2025-06-19,2025-06-25,6,4793
+PRG00361,LinkedIn Optimisation,Masterclass,Decagon,2024-10-16,2024-10-21,5,3554
+PRG00362,Cloud Computing,Core Programme,Tech4Dev,2025-09-04,2025-10-29,55,895
+PRG00363,AI Engineering,Core Programme,Tech4Dev,2024-12-03,2025-01-27,55,267
+PRG00364,Product Design,Core Programme,DataCamp Africa,2024-09-15,2024-11-11,57,490
+PRG00365,AI Engineering,Core Programme,AltSchool,2024-03-24,2024-05-12,49,541
+PRG00366,Digital Marketing,Core Programme,Ingressive,2024-12-24,2025-02-11,49,1138
+PRG00367,Digital Marketing,Core Programme,DataCamp Africa,2025-09-01,2025-10-28,57,332
+PRG00368,Programme Orientation,Orientation,DataCamp Africa,2025-01-20,2025-01-22,2,5578
+PRG00369,AI Engineering,Core Programme,DataCamp Africa,2024-05-10,2024-07-04,55,1032
+PRG00370,Mentor Introduction,Orientation,Decagon,2025-11-17,2025-11-18,1,6292
+PRG00371,Career Readiness,Masterclass,Ingressive,2025-01-06,2025-01-11,5,649
+PRG00372,Web Development,Core Programme,Utiva,2025-05-12,2025-07-02,51,549
+PRG00373,LinkedIn Optimisation,Masterclass,Ingressive,2024-03-20,2024-03-24,4,1769
+PRG00374,CV Writing,Masterclass,Tech4Dev,2025-06-23,2025-06-30,7,4921
+PRG00375,Digital Marketing,Core Programme,Utiva,2025-09-24,2025-11-18,55,1097
+PRG00376,Product Design,Core Programme,Utiva,2024-06-15,2024-08-11,57,357
+PRG00377,AI Engineering,Core Programme,Tech4Dev,2025-03-24,2025-05-13,50,938
+PRG00378,AI Productivity,Masterclass,AltSchool,2025-03-30,2025-04-04,5,2445
+PRG00379,Platform Walkthrough,Orientation,Utiva,2025-06-30,2025-07-02,2,2916
+PRG00380,Freelancing,Masterclass,DataCamp Africa,2025-01-11,2025-01-17,6,2089
+PRG00381,Career Readiness,Masterclass,TalentQL,2024-10-15,2024-10-21,6,4282
+PRG00382,Platform Walkthrough,Orientation,TalentQL,2024-07-23,2024-07-25,2,2327
+PRG00383,Product Design,Core Programme,Tech4Dev,2024-09-13,2024-11-01,49,1093
+PRG00384,Mentor Introduction,Orientation,Tech4Dev,2025-07-21,2025-07-23,2,4040
+PRG00385,Digital Marketing,Core Programme,TalentQL,2024-03-26,2024-05-13,48,491
+PRG00386,LinkedIn Optimisation,Masterclass,Utiva,2025-06-09,2025-06-14,5,4180
+PRG00387,AI Productivity,Masterclass,Ingressive,2025-04-06,2025-04-09,3,2318
+PRG00388,CV Writing,Masterclass,AltSchool,2025-02-09,2025-02-15,6,936
+PRG00389,Freelancing,Masterclass,Ingressive,2024-03-24,2024-03-28,4,3663
+PRG00390,Web Development,Core Programme,TalentQL,2024-04-11,2024-05-26,45,526
+PRG00391,Remote Work Essentials,Masterclass,Tech4Dev,2024-05-20,2024-05-25,5,1696
+PRG00392,Platform Walkthrough,Orientation,TalentQL,2024-05-22,2024-05-24,2,6702
+PRG00393,Remote Work Essentials,Masterclass,Tech4Dev,2025-09-22,2025-09-28,6,4174
+PRG00394,Programme Orientation,Orientation,TalentQL,2024-08-08,2024-08-09,1,3096
+PRG00395,LinkedIn Optimisation,Masterclass,Tech4Dev,2025-03-09,2025-03-16,7,4823
+PRG00396,AI Engineering,Core Programme,Tech4Dev,2024-11-04,2024-12-28,54,443
+PRG00397,Data Analytics,Core Programme,TalentQL,2025-10-16,2025-12-07,52,629
+PRG00398,Career Readiness,Masterclass,TalentQL,2024-04-23,2024-04-29,6,1014
+PRG00399,AI Productivity,Masterclass,DataCamp Africa,2024-01-17,2024-01-24,7,4891
+PRG00400,Career Readiness,Masterclass,Ingressive,2024-05-27,2024-06-03,7,2481
+PRG00401,Cloud Computing,Core Programme,Utiva,2024-12-27,2025-02-10,45,829
+PRG00402,Product Design,Core Programme,DataCamp Africa,2025-11-11,2026-01-08,58,391
+PRG00403,CV Writing,Masterclass,AltSchool,2024-03-10,2024-03-17,7,3454
+PRG00404,Career Readiness,Masterclass,Tech4Dev,2025-07-21,2025-07-28,7,4658
+PRG00405,Platform Walkthrough,Orientation,Decagon,2025-10-12,2025-10-14,2,1356
+PRG00406,Cybersecurity,Core Programme,Ingressive,2024-01-17,2024-03-10,53,965
+PRG00407,AI Engineering,Core Programme,DataCamp Africa,2024-09-03,2024-10-20,47,553
+PRG00408,Remote Work Essentials,Masterclass,Tech4Dev,2024-05-16,2024-05-19,3,3223
+PRG00409,Platform Walkthrough,Orientation,Utiva,2025-10-20,2025-10-22,2,7664
+PRG00410,Remote Work Essentials,Masterclass,Utiva,2025-10-08,2025-10-14,6,4420
+PRG00411,LinkedIn Optimisation,Masterclass,Ingressive,2024-02-07,2024-02-10,3,4249
+PRG00412,Web Development,Core Programme,Tech4Dev,2024-07-23,2024-09-07,46,1010
+PRG00413,Platform Walkthrough,Orientation,TalentQL,2025-02-11,2025-02-13,2,5222
+PRG00414,Career Readiness,Masterclass,TalentQL,2024-02-07,2024-02-13,6,2575
+PRG00415,Mentor Introduction,Orientation,TalentQL,2024-12-31,2025-01-01,1,3343
+PRG00416,AI Engineering,Core Programme,Ingressive,2025-11-02,2025-12-18,46,1086
+PRG00417,Platform Walkthrough,Orientation,Decagon,2025-01-11,2025-01-12,1,7548
+PRG00418,AI Productivity,Masterclass,Utiva,2024-12-13,2024-12-19,6,3667
+PRG00419,AI Productivity,Masterclass,Ingressive,2025-06-15,2025-06-21,6,3509
+PRG00420,AI Engineering,Core Programme,Tech4Dev,2025-03-10,2025-04-26,47,944
+PRG00421,AI Productivity,Masterclass,Ingressive,2025-07-12,2025-07-19,7,1978
+PRG00422,Freelancing,Masterclass,DataCamp Africa,2024-12-01,2024-12-04,3,1155
+PRG00423,Platform Walkthrough,Orientation,DataCamp Africa,2025-09-09,2025-09-11,2,4652
+PRG00424,Cloud Computing,Core Programme,Ingressive,2025-03-30,2025-05-19,50,906
+PRG00425,AI Productivity,Masterclass,Decagon,2025-09-21,2025-09-24,3,3388
+PRG00426,Cybersecurity,Core Programme,DataCamp Africa,2025-11-18,2026-01-03,46,276
+PRG00427,AI Productivity,Masterclass,Utiva,2025-11-26,2025-12-01,5,4703
+PRG00428,CV Writing,Masterclass,Utiva,2024-02-05,2024-02-09,4,4089
+PRG00429,CV Writing,Masterclass,Decagon,2025-01-05,2025-01-09,4,3500
+PRG00430,Product Design,Core Programme,DataCamp Africa,2024-06-06,2024-07-22,46,819
+PRG00431,AI Productivity,Masterclass,TalentQL,2025-03-30,2025-04-04,5,3547
+PRG00432,CV Writing,Masterclass,Ingressive,2025-06-26,2025-07-03,7,1627
+PRG00433,AI Productivity,Masterclass,Tech4Dev,2024-09-12,2024-09-17,5,2783
+PRG00434,Data Analytics,Core Programme,Decagon,2025-06-14,2025-08-03,50,711
+PRG00435,Career Readiness,Masterclass,DataCamp Africa,2024-09-23,2024-09-26,3,2644
+PRG00436,Cloud Computing,Core Programme,DataCamp Africa,2024-10-19,2024-12-09,51,826
+PRG00437,AI Productivity,Masterclass,TalentQL,2024-05-18,2024-05-22,4,1504
+PRG00438,Programme Orientation,Orientation,Decagon,2025-12-31,2026-01-02,2,2414
+PRG00439,Programme Orientation,Orientation,DataCamp Africa,2024-12-21,2024-12-23,2,6470
+PRG00440,Data Analytics,Core Programme,TalentQL,2024-11-03,2024-12-27,54,1112
+PRG00441,Programme Orientation,Orientation,AltSchool,2025-01-05,2025-01-06,1,7501
+PRG00442,LinkedIn Optimisation,Masterclass,Utiva,2024-05-22,2024-05-25,3,2146
+PRG00443,AI Productivity,Masterclass,AltSchool,2025-07-21,2025-07-24,3,3456
+PRG00444,Cybersecurity,Core Programme,Utiva,2025-07-18,2025-09-15,59,1022
+PRG00445,Product Design,Core Programme,Decagon,2024-11-12,2024-12-29,47,267
+PRG00446,Digital Marketing,Core Programme,TalentQL,2025-02-24,2025-04-25,60,738
+PRG00447,Platform Walkthrough,Orientation,DataCamp Africa,2024-11-20,2024-11-21,1,2026
+PRG00448,CV Writing,Masterclass,AltSchool,2025-11-27,2025-12-03,6,4316
+PRG00449,Freelancing,Masterclass,Decagon,2024-05-12,2024-05-16,4,1990
